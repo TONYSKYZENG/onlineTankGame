@@ -1,4 +1,4 @@
-BRANCH=main
+BRANCH=gh_pages
 git init
 git checkout -b $BRANCH
 git add .
