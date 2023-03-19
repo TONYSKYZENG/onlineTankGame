@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/tank.png</file>
+        <file>pics/bg.jpg</file>
+        <file>sound/leave.wav</file>
+        <file>pics/tank1.png</file>
+        <file>pics/tank2.png</file>
+        <file>pics/tank3.png</file>
+        <file>pics/shell.png</file>
+        <file>sound/fire.wav</file>
+        <file>sound/reload.wav</file>
+        <file>sound/hit.wav</file>
+        <file>sound/death.wav</file>
+        <file>sound/kill.wav</file>
+        <file>ttf/catoon.ttf</file>
+    </qresource>
+</RCC>
