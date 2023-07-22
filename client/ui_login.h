@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'login.ui'
 **
-** Created by: Qt User Interface Compiler version 5.14.2
+** Created by: Qt User Interface Compiler version 5.15.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -36,7 +36,7 @@ public:
         login->resize(400, 300);
         label = new QLabel(login);
         label->setObjectName(QString::fromUtf8("label"));
-        label->setGeometry(QRect(50, 110, 67, 17));
+        label->setGeometry(QRect(50, 100, 67, 17));
         TPORT = new QTextEdit(login);
         TPORT->setObjectName(QString::fromUtf8("TPORT"));
         TPORT->setGeometry(QRect(130, 90, 161, 41));
